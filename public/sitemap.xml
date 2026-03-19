@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://team6038.com/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://team6038.com/about/frc</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://team6038.com/about/team</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://team6038.com/gallery</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://team6038.com/contact</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://team6038.com/robots</loc>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://team6038.com/team</loc>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://team6038.com/join-us</loc>
+    <priority>0.75</priority>
+  </url>
+</urlset>
